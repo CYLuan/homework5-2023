@@ -128,7 +128,7 @@ body{
 
 body > header{
   position: fixed;
-  top:o;
+  top:0;
   width: 100%;
   z-index: 1000;
 } 
@@ -182,7 +182,7 @@ main{
   }
 
   .card{
-    border: 2px splid #45ADDD;
+    border: 2px solid #45ADDD;
     flex-basis: 325px;
     flex: 0 1 275px;
     /* margin: 0; */
